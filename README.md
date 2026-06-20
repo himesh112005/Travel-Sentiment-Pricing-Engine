@@ -24,3 +24,5 @@ python src/data_gen.py
 python src/sentiment.py
 python src/sql_blend.py
 streamlit run app/app.py
+
+<img width="1359" height="644" alt="image" src="https://github.com/user-attachments/assets/ab07f802-1aa4-4586-a5af-1885603cda4c" />
